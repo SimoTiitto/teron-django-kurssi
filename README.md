@@ -1,2 +1,3 @@
-# teron-django-kurssi
+# Django kurssin tehtävät
+
 Tehtävät Teron Django kurssille 2023
